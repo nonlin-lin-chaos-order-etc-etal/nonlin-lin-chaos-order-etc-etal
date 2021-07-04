@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 - ⚡ Fun fact: <em><p>
       :green_heart: we should never die! :green_heart:<br clear="all"/>
-      :green_heart: `EcoBioRoboticMultiverses.vis_vitalis_eternal_nonstandard_et_standard_etc_et_al();` :green_heart:
+      :green_heart: `EcologicalBioRoboticMultiverses.vis_vitalis_eternal_nonstandard_et_standard_etc_et_al();` :green_heart:
   </p></em>
 - 🌱 I’m currently learning at the [University of Artificial Intelligence](https://neural-university.ru/). Topic <em>"Data Science, neural networks, ML, AI, terra_ai@pypi, keras, tensorflow, pytorch"</em>;
 - 😄 Pronouns: <em>He (His)</em>;
