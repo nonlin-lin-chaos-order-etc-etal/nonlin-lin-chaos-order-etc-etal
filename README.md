@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Visit https://github.com/FreakCardClub to get a card for 20% discounts at all of our services: #opensourceforgood! We use Ubuntu business model: multiple opensource licenses including GPLV3 and BSD3 and MIT etc with proprietary licensed parts.
+Please do visit https://github.com/FreakCardClub to get a virtual 20% discounts card (and in future, maybe a blockchain curated artful NFT and|or physical curated freaks art ones) for discounts at all of our services: #opensourceforgood! We use Ubuntu business model: multiple opensource licenses and multilicenses including GPLV3 and BSD3 and MIT etc et al with proprietary licensed parts.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=nonlin-lin-chaos-order-etc-etal&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true" alt="Hypnosis's github stats"/>
 
