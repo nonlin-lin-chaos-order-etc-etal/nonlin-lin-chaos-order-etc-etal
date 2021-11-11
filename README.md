@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Visit https://github.com/FreakCardClub to get a card for 20% discounts at all of our services: #opensourceforgood! We use Ubuntu business model: multiple opensource licenses including GPLV3 and BSD3 and MIT etc with proprietary licensed parts.
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=nonlin-lin-chaos-order-etc-etal&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true" alt="Hypnosis's github stats"/>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=HOLISTICRESEARCH&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true" alt="HOLISTICRESEARCH' github stats"/>
