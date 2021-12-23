@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 - 😄 Languages: <em>Russian, English, `multitran.com/translate.google.com`</em>;
 - 🔭 I’m currently working on a lot of projects --- partial projects list will quazsi soon appear at [https://github.com/nonlin-lin-chaos-order-etc-etal/PROJECTS_LIST](https://github.com/nonlin-lin-chaos-order-etc-etal/PROJECTS_LIST) repo;
 - 📫 How to reach me: [https://beacons.page/krichuvka](https://beacons.page/krichuvka);
-- My second_main github acct is [https://github.com/HOLISTICRESEARCH](https://github.com/HOLISTICRESEARCH);
+- My second_main github acct is [https://github.com/ANANTASHESHALOKAGREENTARAEGPTRANSHOLON](https://github.com/ANANTASHESHALOKAGREENTARAEGPTRANSHOLON);
 - My e-mails are: [hypnosis.i2p@gmail.com](mailto:hypnosis.i2p@gmail.com) et [hypnosis@mail.i2p](mailto:hypnosis@mail.i2p);
 - etc etc etc et al.
