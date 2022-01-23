@@ -2,9 +2,25 @@
 
 Please do visit https://github.com/FreakCardClub to get a virtual 20% discounts card (and in future, maybe a blockchain curated artful NFT and|or physical curated freaks art ones) for discounts at all of our services: #opensourceforgood! We use the Ubuntu business model: multiple opensource licenses and multilicenses including GPLV3 and BSD3 and MIT etc et al with proprietary licensed parts.
 
+<br clear=all>
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=nonlin-lin-chaos-order-etc-etal&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true" alt="Hypnosis's github stats"/>
 
+<br clear=all>
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ANANTASHESHALOKAGREENTARAEGPTRANSHOLON&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true" alt="ANANTASHESHALOKAGREENTARAEGPTRANSHOLON' github stats"/>
+
+<br clear=all>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonlin-lin-chaos-order-etc-etal&layout=compact&hide=html" alt="nonlin-lin-chaos-order-etc-etal's top programming languages referenced at repos"/>
+
+<br clear=all>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANANTASHESHALOKAGREENTARAEGPTRANSHOLON&layout=compact&hide=html" alt="ANANTASHESHALOKAGREENTARAEGPTRANSHOLON's top programming languages referenced at repos"/>
+
+<br clear=all>
+
+
 
 <!--
 **nonlin-lin-chaos-order-etc-etal/nonlin-lin-chaos-order-etc-etal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
