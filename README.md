@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://github.com/MammothAge
+
 Please do visit https://github.com/FreakCardClub to get a virtual 20% discounts card (and in future, maybe a blockchain curated artful NFT and|or physical curated freaks art ones) for discounts at all of our services: #opensourceforgood! We use the Ubuntu business model: multiple opensource licenses and multilicenses including GPLV3 and BSD3 and MIT etc et al with proprietary licensed parts.
 
 <br clear=all>
