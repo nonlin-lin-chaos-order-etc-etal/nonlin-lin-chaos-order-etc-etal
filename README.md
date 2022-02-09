@@ -1,4 +1,4 @@
-?"0 $LINEDISCIPLINE="0":'1 $LINEDISCIPLINE="1":'### Hi there 👋 https://github.com/MammothsTeeth 'SAVE"README.BAS
+?"0 $LINEDISCIPLINE="0":'1 $LINEDISCIPLINE="1":'### Hi there 👋 https://github.com/MammothsTeeth 'SAVE"README.BAS"'"I JUST WANNA BE BASIC!" =*PERFORMED BY SIGRID RAABE*
 
 3 $LINEDISCIPLINE="3":' https://github.com/nonlin-lin-chaos-order-etc-etal/all_attractive_assets_tokens_of_the_transfinite_coral_universe_tokenomikcs_umbrella_arxmetaevoaz_api
 
@@ -198,4 +198,4 @@ Here are some ideas to get you started:
 
 
 200 $LINEDISCIPLINE="200":PRINT"ГРУЗ 200":'END. TRANSFINITE NUMBERS FOLLOW. ВАС ПРИВЕТСТВУЕТ СТУДИЯ ЛАСКОВЫЙ ДЖОН! ШТРАШНЫЙ ДЖОН FOXYJOHN СМЕРТИЮ БОЖИЮ ПОМРЕ.
-201 $LINEDISCIPLINE="201":PRINTCHR(22);"ЖИЗНЬ - ЭТО ЦВЕТОК. ЛЕТИТ ЗАПАХ В ВОЗДУХЕ.";CHR(22);CHR(13);CHR(10);"*ФИЛИППОВ ЕВГЕНИЙ ГРИГОРЬЕВИЧ, РОДОМ ИЗ ГОРОДА АНГАРСКА, СССР РСФСР ДАТА РОЖДЕНИЯ 1974 ГОД АПРЕЛЬ МЕСЯЦ 17 ЧИСЛО ОКОЛО 8 УТРА ПО АНГАРСКОМУ ВРЕМЕНИ. SPINGMAN! КАК ГОВОРИЛ АНДРЕЕЦ ШАЛЬКО AKA "А Я ГУИМПЛЕН!' GREETZ TO milkbrotherhude & Apostroff Axon, et to McG et many others https://github.com/nonlin-lin-chaos-order-etc-etal/nonlin-lin-chaos-order-etc-etal/edit/ARXINEOPSIXIKAETCETAL/README.md *
+201 $LINEDISCIPLINE="201":PRINTCHR(22);"ЖИЗНЬ - ЭТО ЦВЕТОК. ЛЕТИТ ЗАПАХ В ВОЗДУХЕ.";CHR(22);CHR(13);CHR(10);"*ФИЛИППОВ ЕВГЕНИЙ ГРИГОРЬЕВИЧ, РОДОМ ИЗ ГОРОДА АНГАРСКА, СССР РСФСР ДАТА РОЖДЕНИЯ 1974 ГОД АПРЕЛЬ МЕСЯЦ 17 ЧИСЛО ОКОЛО 8 УТРА ПО АНГАРСКОМУ ВРЕМЕНИ. SPRINGMAN! КАК ГОВОРИЛ АНДРЕЕЦ ШАЛЬКО AKA "А Я ГУИМПЛЕН!' GREETZ TO milkbrotherhude & Apostroff Axon, et to McG et many others https://github.com/nonlin-lin-chaos-order-etc-etal/nonlin-lin-chaos-order-etc-etal/edit/ARXINEOPSIXIKAETCETAL/README.md *
