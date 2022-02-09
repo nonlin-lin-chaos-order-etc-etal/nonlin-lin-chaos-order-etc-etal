@@ -1,10 +1,28 @@
-### Hi there 👋
+### Hi there 👋 https://github.com/MammothsTeeth
 
-https://github.com/MammothsTeeth
+3 $LINEDISCIPLINE="3":' https://github.com/nonlin-lin-chaos-order-etc-etal/all_attractive_assets_tokens_of_the_transfinite_coral_universe_tokenomikcs_umbrella_arxmetaevoaz_api
 
-Please do visit https://github.com/FreakCardClub to get a virtual 20% discounts card (and in future, maybe a blockchain curated artful NFT and|or physical curated freaks art ones) for discounts at all of our services: #opensourceforgood! We use the Ubuntu business model: multiple opensource licenses and multilicenses including GPLV3 and BSD3 and MIT etc et al with proprietary licensed parts.
 
-<br clear=all>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20 $LINEDISCIPLINE="20":?"20.0 200 <br clear=all>":'Greetz to Apostroff Axon from FoxyJohn FoxyJohnnnick fjMSX bigbit-pigmeat!
+
+22 $LINEDISCIPLINE="22":?"22.0 220V ACDC electric liquidity must go on!
+
+
+25 $LINEDISCIPLINE="25":PRINT CHR(22);"МЕНЯ НЕ РАЗБУДЯТ КУРАНТЫ, Я СПЛЮ";CHR(13);CHR(10);"    ДВАДЦАТЬ ПЯТЬ ЧАСОВ В СУТКИ!";CHR(22);CHR(13);CHR(10);"*МифЪ Лесной*"' Please do visit https://github.com/FreakCardClub to get a virtual 20% discounts card (and in future, maybe a blockchain curated artful NFT and|or physical curated freaks art ones) for discounts at all of our services: #opensourceforgood! We use the Ubuntu business model: multiple opensource licenses and multilicenses including GPLV3 and BSD3 and MIT etc et al with proprietary licensed parts.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=nonlin-lin-chaos-order-etc-etal&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true" alt="Hypnosis's github stats"/>
 
