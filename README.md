@@ -1,4 +1,4 @@
-# Voltaire, France: ~ Only dumb stupid crowds do wars against each other. Johnathan Swift: ~ Thick ends do a war with sharp ends again.
+# Voltaire, France: ~ Only dumb stupid crowds do wars against each other. Jonathan Swift, Ireland: ~ Thick ends do a war with sharp ends again. Eugene G. Phfilippowvv: Dumb stupid 0 fights against dumb stupid 1 again, so tertium datur etc et al is the best solution.
 
 
 ?"01 $LINEDISCIPLINE="01":PRINT" OUR CURRENT AGENDA: https://github.com/HUTORI2P/HUTORI2PCURRENTAGENDA ; OLDER INFO FOLLOWS ; PIVOTED: https://github.com/nonlin-lin-chaos-order-etc-etal/nonlin-lin-chaos-order-etc-etal/blob/ARXINEOPSIXIKAETCETAL/0123454H4FESCAPEFROMBITSINTOEXTRERNALLIFEOFVISVITALISANDHOMOSAPIENSSAPIENSBREEDING.BAS.220ACDC2.BAS.HIGHEST_GANDER_MASTER_OF_THE_FIELDS_MCG_YET_ANOTHER_FLOWER_ORG_lesnayaigra_i2p.BAS.md ":'?"0 $LINEDISCIPLINE="0":'1 $LINEDISCIPLINE="1":'### Hi there 👋 https://github.com/MammothsTeeth 'SAVE"README.BAS"'"I JUST WANNA BE BASIC!" =*PERFORMED BY SIGRID RAABE*
