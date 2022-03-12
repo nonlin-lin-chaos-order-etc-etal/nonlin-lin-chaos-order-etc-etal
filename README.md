@@ -1,3 +1,12 @@
+ЖивизныВселенной8Лаборатория::::ВИТАЛИСТИЧЕСКИЙЯРИЛОСУПЕРЭКУМЕНИСТИЧЕСКИЙSTRICTSCIENTICFIINTERNATIONAL [censored at the time of writing this] is a Russian & International development of* and with* & deepening & hardening etc et al of* and with* the https://vpri.org/ http://vpri.org/
+
+MODULE LotusLakesAndSwampsAndVtoroeBolotoJujniyNikomyNeNujniyEasternSiberia
+
+BEGIN
+
+(*
+
+
 # Voltaire, France: ~ Only dumb stupid crowds do wars against each other. Jonathan Swift, Ireland: ~ Thick ends do a war with sharp ends again. Eugene G. Phfilippowvv: Dumb stupid 0 fights against dumb stupid 1 again, so tertium datur etc et al is the best solution.
 
 
