@@ -1,4 +1,4 @@
-ЖивизныВселенной8Лаборатория::::ВИТАЛИСТИЧЕСКИЙЯРИЛОСУПЕРЭКУМЕНИСТИЧЕСКИЙSTRICTSCIENTICFIINTERNATIONAL [censored at the time of writing this] is a Russian & International development of* and with* & deepening & hardening etc et al of* and with* the https://vpri.org/ http://vpri.org/
+ЖивизныВселенной8Лаборатория::::ВИТАЛИСТИЧЕСКИЙЯРИЛОСУПЕРЭКУМЕНИСТИЧЕСКИЙSTRICTSCIENTICFIINTERNATIONAL JiviznyVselennoy8JV8vpriruoberoncorerunukleus Project starting at https://oberoncore.ru/ http://oberoncore.ru/ a Russian & International development of* and with* & deepening & hardening etc et al of* and with* the https://vpri.org/ http://vpri.org/ based on OBERON PROGRAMMING LANGUAGE Niklaus Wirth & vpri.org fonc etc et al Research STEPS Project with Alan Kay et al ОБЕРОН ДРАКОН БУРАН ПРОЕКТЫ КОВЧЕГИ ВЕЧНОСТИ
 
 MODULE LotusLakesAndSwampsAndVtoroeBolotoJujniyNikomyNeNujniyEasternSiberia
 
