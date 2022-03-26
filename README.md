@@ -1,3 +1,8 @@
+`<COLISEUM>` "Купи себе у Бога копирайт на постиндоевропейский язык."... et cetera et al tertium datur. x - зависит. Именно слово - это оружие Данко, люди и математики и бизнес и прочие последуют за словом и всё сделают.
+`LD01` `LD754` `<x>` пусть мое слово будет оружием
+`<COLISEUM>` пусть и мо' слово будет оружием. `(*` +2022-03-26 22:11:38 UTC nanoseconds:713350913 Ante De Christ `*)
+
+# Дела давно минувших дней, преданья старины глубокой
 [https://github.com/nonlin-lin-chaos-order-etc-etal/_](https://github.com/nonlin-lin-chaos-order-etc-etal/_) ЖивизныВселенной8Лаборатория https://github.com/VisVitalisEternity https://github.com/nonlin-lin-chaos-order-etc-etal/OpensourceMountainsLandscapesWithOpensourceLakes ::::ВИТАЛИСТИЧЕСКИЙЯРИЛОСУПЕРЭКУМЕНИСТИЧЕСКИЙSTRICTSCIENTICFIINTERNATIONAL JiviznyVselennoy8JV8vpriruoberoncorerunukleus Project starting at https://oberoncore.ru/ http://oberoncore.ru/ a Russian & International development of* and with* & deepening & hardening etc et al of* and with* the https://vpri.org/ http://vpri.org/ based on OBERON PROGRAMMING LANGUAGE Niklaus Wirth & vpri.org fonc etc et al Research STEPS Project with Alan Kay et al ОБЕРОН ДРАКОН БУРАН ПРОЕКТЫ КОВЧЕГИ ВЕЧНОСТИ
 
 oberoncoreruJV8infinitesimalnukleusРУДНИКПРИИСК https://github.com/oberoncoreruJV8infinitesimalnukleusRUDA
