@@ -1,6 +1,6 @@
 # Status
 
-Working on https://github.com/tranoop3 
+Unknown (usually busy or chatting at `#ru` at `irc.ilita.i2p`).
  
 # Дела давно минувших дней, преданья старины глубокой
  `<COLISEUM>` "Купи себе у Бога копирайт на постиндоевропейский язык."... et cetera et al tertium datur. x - зависит. Именно слово - это оружие Данко, люди и математики и бизнес и прочие последуют за словом и всё сделают.
