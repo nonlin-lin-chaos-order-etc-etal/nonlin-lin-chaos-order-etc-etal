@@ -2,7 +2,7 @@
   - [i2pd-android](https://github.com/PurpleI2P/i2pd-android);
   - [i2pd-qt](https://github.com/PurpleI2P/i2pd-qt);
   - [i2pchat](https://github.com/i2pchat/i2pchat);
-  - [nebula-chat-fork] https://github.com/nebula-chat-fork) (pending?);
+  - [openmtproto](https://github.com/openmtproto) (pending?) a fork of nebula chat;
   - fedigram (pending?);
 - Status: <em>Unknown (usually busy or chatting at `#ru` at `irc.ilita.i2p`);</em>
 - I2P handle: <em>Hypnosis</em>;
