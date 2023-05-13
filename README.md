@@ -8,6 +8,7 @@
   - [i2pchat](https://github.com/i2pchat/i2pchat);
   - [openmtproto](https://github.com/openmtproto) (pending?) a fork of nebula chat;
   - [fedigram](https://github.com/fedigram) (pending?) a technological convergence messenger;
+  - [haxewallet](https://github.com/haxewallet) (pending?);
 - Status: <em>Unknown (usually busy or chatting at `#ru` at `irc.ilita.i2p`);</em>
 - I2P handle: <em>Hypnosis</em>;
 - Languages: <em>Russian, English, `multitran.com`, &amp; `translate.google.com`</em>;
