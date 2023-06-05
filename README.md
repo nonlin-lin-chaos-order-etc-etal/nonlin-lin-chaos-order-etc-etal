@@ -3,7 +3,7 @@
 <br clear=all>
 
 - Projects that I sometimes lead or maintain:
-  - [e](https://github.com/nonlin-lin-chaos-order-etc-etal/e) (pending?) e editor. e is *not* Multi-Edit. Dedicated to beautifulliest memories of Multi-Edit 7 for DOS.
+  - [e](https://github.com/nonlin-lin-chaos-order-etc-etal/e) (pending?) e editor. e is *not* Multi-Edit. Dedicated to beautifulliest memories of Multi-Edit 7 for DOS;
   - [i2pd-android](https://github.com/PurpleI2P/i2pd-android);
   - [i2pd-qt](https://github.com/PurpleI2P/i2pd-qt);
   - [i2pchat](https://github.com/i2pchat/i2pchat);
