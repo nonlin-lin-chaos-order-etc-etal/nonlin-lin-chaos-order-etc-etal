@@ -14,7 +14,7 @@
   - [fedigram](https://github.com/fedigram) (pending?) a technological convergence messenger;
   - [haxewallet](https://github.com/haxewallet) (pending?);
 - Status: <em>Unknown (usually busy or chatting at `#ru` at `irc.ilita.i2p`);</em>
-- I2P handle: <em>Hypnosis</em>;
+- I2P handle: <em>Hypnosis</em> (the primary callsign) or <em>Hypenosis</em> (one of secondary nicks);
 - Languages: <em>Russian, English, `multitran.com`, &amp; `translate.google.com`</em>;
 - My e-mails are: [hypnosis.i2p@gmail.com](mailto:hypnosis.i2p@gmail.com) et [hypnosis@mail.i2p](mailto:hypnosis@mail.i2p);
 - Stats for my two main Github accts follow.
