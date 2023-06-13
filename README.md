@@ -33,3 +33,39 @@
 <br clear=all>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmexcaliburwoods&layout=compact&hide=html" alt="ANANTASHESHALOKAGREENTARAEGPTRANSHOLON's top programming languages referenced at repos"/>
+
+<br clear=all>
+
+<p align="center">
+  <a href="https://github.com/nonlin-lin-chaos-order-etc-etal">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nonlin-lin-chaos-order-etc-etal&theme=transparent" />
+  </a>
+  <a href="https://github.com/nonlin-lin-chaos-order-etc-etal">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nonlin-lin-chaos-order-etc-etal&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/nonlin-lin-chaos-order-etc-etal">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nonlin-lin-chaos-order-etc-etal&theme=transparent" />
+  </a>
+  <a href="https://github.com/nonlin-lin-chaos-order-etc-etal">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonlin-lin-chaos-order-etc-etal&langs_count=10&exclude_repo=&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/asmexcaliburwoods">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asmexcaliburwoods&theme=transparent" />
+  </a>
+  <a href="https://github.com/asmexcaliburwoods">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmexcaliburwoods&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/asmexcaliburwoods">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asmexcaliburwoods&theme=transparent" />
+  </a>
+  <a href="https://github.com/asmexcaliburwoods">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmexcaliburwoods&langs_count=10&exclude_repo=&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+<!--
+<details>
+  this is a details example
+</details>
+-->
