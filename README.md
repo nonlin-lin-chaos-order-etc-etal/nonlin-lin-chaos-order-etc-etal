@@ -11,7 +11,7 @@
   - [i2pd-android](https://github.com/PurpleI2P/i2pd-android);
   - [i2pd-qt](https://github.com/PurpleI2P/i2pd-qt);
   - [i2pchat](https://github.com/i2pchat/i2pchat);
-  - [openmtproto](https://github.com/openmtproto) (pending?) a fork of nebula chat;
+  - [open-telegram-server](https://github.com/open-telegram-server) (pending?) a fork of nebula chat;
   - [fedigram](https://github.com/fedigram) (pending?) a technological convergence messenger;
   - [haxewallet](https://github.com/haxewallet) (pending?);
 - Status: <em>Unknown (usually busy or chatting at `#ru` at `irc.ilita.i2p`);</em>
