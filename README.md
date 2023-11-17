@@ -9,7 +9,7 @@
   - [e](https://github.com/nonlin-lin-chaos-order-etc-etal/e) (pending?) e editor. e is *not* Multi-Edit. Dedicated to beautifulliest memories of Multi-Edit 7 for DOS;
   - [i2pd-android](https://github.com/PurpleI2P/i2pd-android) - 1. stability fix necessary (with written permission from InviZiblePro author); 2. meanwhile, I suggest you use InviZiblePro instead of i2pd-android;
   - [i2pd-qt](https://github.com/PurpleI2P/i2pd-qt) - a lot of fixes necessary, e.g. doesn't work with high dpi and has glitches with editing text inputs;
-  - [i2pchat](https://github.com/i2pchat/i2pchat) - 1. a lot of fixes needed; 2. https://github.com/vituperative has updated version with unknown security level;
+  - [i2pchat](https://github.com/i2pchat/i2pchat) - 1. a lot of fixes needed; 2. [github.com/vituperative/i2pchat](https://github.com/vituperative/i2pchat) has updated version with unknown security level;
   - [open-telegram-server](https://github.com/open-telegram-server) (pending?) a fork of nebula chat;
   - [fedigram](https://github.com/fedigram) (pending?) a technological convergence messenger;
   - [haxewallet](https://github.com/haxewallet) (pending?);
