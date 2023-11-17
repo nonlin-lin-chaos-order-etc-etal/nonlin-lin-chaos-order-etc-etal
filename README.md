@@ -3,12 +3,13 @@
 
 <br clear=all>
 
+<h2>Opensource</h2>
+
 - Projects that I sometimes lead or maintain:
   - [e](https://github.com/nonlin-lin-chaos-order-etc-etal/e) (pending?) e editor. e is *not* Multi-Edit. Dedicated to beautifulliest memories of Multi-Edit 7 for DOS;
-  - [EasyWallet](https://github.com/easy-wallet) a proprietary cryptocurrencies wallet for simple people;
-  - [i2pd-android](https://github.com/PurpleI2P/i2pd-android);
-  - [i2pd-qt](https://github.com/PurpleI2P/i2pd-qt);
-  - [i2pchat](https://github.com/i2pchat/i2pchat);
+  - [i2pd-android](https://github.com/PurpleI2P/i2pd-android) - 1. stability fix necessary (with written permission from InviZiblePro author); 2. meanwhile, I suggest you use InviZiblePro instead of i2pd-android;
+  - [i2pd-qt](https://github.com/PurpleI2P/i2pd-qt) - a lot of fixes necessary, e.g. doesn't work with high dpi and has glitches with editing text inputs;
+  - [i2pchat](https://github.com/i2pchat/i2pchat) - 1. a lot of fixes needed; 2. https://github.com/vituperative has updated version with unknown security level;
   - [open-telegram-server](https://github.com/open-telegram-server) (pending?) a fork of nebula chat;
   - [fedigram](https://github.com/fedigram) (pending?) a technological convergence messenger;
   - [haxewallet](https://github.com/haxewallet) (pending?);
@@ -67,3 +68,9 @@
   this is a details example
 </details>
 -->
+
+<h2>
+  The mono proprietary freegan private access kernel/core: `git@github.com:nonlin-lin-chaos-order-etc-etal/monorepo_volpinism_mountain.git` https://github.com/nonlin-lin-chaos-order-etc-etal/monorepo_volpinism_mountain
+</h2>
+
+<hr> P.S. my three other github accts: [mewmew-i2p](https://github.com/mewmew-i2p), [anon5](https://github.com/anon5), [egphilippov](https://github.com/egphilippov), there might be more but forgotten
