@@ -73,4 +73,6 @@
   The mono proprietary freegan private access kernel/core: `git@github.com:nonlin-lin-chaos-order-etc-etal/monorepo_volpinism_mountain.git` https://github.com/nonlin-lin-chaos-order-etc-etal/monorepo_volpinism_mountain
 </h2>
 
-<hr> P.S. my three other github accts: [mewmew-i2p](https://github.com/mewmew-i2p), [anon5](https://github.com/anon5), [egphilippov](https://github.com/egphilippov), there might be more but forgotten
+<hr/>
+
+P.S. my three other github accts: [mewmew-i2p](https://github.com/mewmew-i2p), [anon5](https://github.com/anon5), [egphilippov](https://github.com/egphilippov), there might be more but forgotten
