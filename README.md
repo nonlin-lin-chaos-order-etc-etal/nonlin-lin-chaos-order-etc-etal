@@ -14,7 +14,7 @@
   - [fedigram](https://github.com/fedigram) (pending?) a technological convergence messenger;
   - [haxewallet](https://github.com/haxewallet) (pending?);
 - Other projects
-  - satori wrote small internet radio player in gtk c++ https://github.com/radihypn
+  - satori wrote small internet radio player in gtk c++ https://github.com/radihypn/radihypn
 - Status: <em>Unknown (usually busy or chatting at `#ru` at `irc.ilita.i2p`);</em>
 - I2P handle: <em>Hypnosis</em> (the primary callsign) or <em>Hypenosis</em> (one of secondary nicks);
 - Languages: <em>Russian, English, `multitran.com`, &amp; `translate.google.com`</em>;
