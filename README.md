@@ -1,5 +1,7 @@
 <img width="80%" src="https://raw.githubusercontent.com/nonlin-lin-chaos-order-etc-etal/nonlin-lin-chaos-order-etc-etal/e894a40a50a85517ae6e7d266eca0411806bfcd3/tranoo%20%D0%BA%D0%BE%D0%BB%D0%B1%D0%BE%D1%87%D0%BA%D0%B0%20%D1%85%D0%B8%D0%BC%D0%B8%D1%87%D0%B8%D0%BC%20%D0%B0%D1%80%D1%82%20%D0%B0%D0%B2%D0%B0%D1%82%D0%B0%D1%80%20photo_2023-06-11_10-34-41.jpg">
 <img width="80%" src="https://raw.githubusercontent.com/MetamorphosisNLU/IbnHottab/main/photo_2023-06-13_01-41-26.jpg">
+<img width="80%" src="https://github.com/nonlin-lin-chaos-order-etc-etal/nonlin-lin-chaos-order-etc-etal/blob/ARXINEOPSIXIKAETCETAL/EGPhilippovCard_English.png?raw=true">
+<img width="80%" src="https://github.com/nonlin-lin-chaos-order-etc-etal/nonlin-lin-chaos-order-etc-etal/blob/ARXINEOPSIXIKAETCETAL/EGPhilippovCard_Russian.png?raw=true">
 
 <br clear=all>
 
