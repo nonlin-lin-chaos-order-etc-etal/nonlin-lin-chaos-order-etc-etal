@@ -15,6 +15,7 @@
   - [open-telegram-server](https://github.com/open-telegram-server) (pending?) a fork of nebula chat;
   - [fedigram](https://github.com/fedigram) (pending?) a technological convergence messenger;
   - [haxewallet](https://github.com/haxewallet) (pending?);
+  - pending convergence at https://github.com/nonlin-lin-chaos-order-etc-etal/holistic-point
 - Other projects
   - satori wrote small internet radio player in gtk c++ https://github.com/radihypn/radihypn
 - Status: <em>Unknown (usually busy or chatting at `#ru` at `irc.ilita.i2p`);</em>
