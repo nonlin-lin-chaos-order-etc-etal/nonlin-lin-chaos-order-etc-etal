@@ -74,6 +74,8 @@
 </details>
 -->
 
+My paintings: https://github.com/nonlin-lin-chaos-order-etc-etal/my-paintings/blob/main/Usefulness.jpg
+
 <h2>
   The mono proprietary freegan private access kernel/core: `git@github.com:nonlin-lin-chaos-order-etc-etal/monorepo_volpinism_mountain.git` https://github.com/nonlin-lin-chaos-order-etc-etal/monorepo_volpinism_mountain
 </h2>
