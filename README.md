@@ -18,6 +18,8 @@
   - pending convergence at https://github.com/nonlin-lin-chaos-order-etc-etal/holistic-point
 - Other projects
   - satori wrote small internet radio player in gtk c++ https://github.com/radihypn/radihypn
+- Ideas to implement
+  - https://github.com/nonlin-lin-chaos-order-etc-etal/IDEAS_TO_IMPLEMENT
 - Status: <em>Unknown (usually busy or chatting at `#ru` at `irc.ilita.i2p`);</em>
 - I2P handle: <em>Hypnosis</em> (the primary callsign) or <em>Hypenosis</em> (one of secondary nicks);
 - Languages: <em>Russian, English, `multitran.com`, &amp; `translate.google.com`</em>;
