@@ -5,9 +5,10 @@
 
 <br clear=all>
 
-<h2>Blog</h2>
+<h2>Blogs</h2>
 
   - Тут бложек забахал, думаю вести. https://bitstream-synergetics-the-work.github.io/
+  - Блог "Мысли в космос" --- мож кто починит: https://github.com/nonlin-lin-chaos-order-etc-etal/blog-thoughts-into-cosmos/issues
 
 <h2>Opensource</h2>
 
