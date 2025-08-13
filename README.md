@@ -5,6 +5,10 @@
 
 <br clear=all>
 
+<h2>Blog</h2>
+
+  - Тут бложек забахал, думаю вести. https://bitstream-synergetics-the-work.github.io/
+
 <h2>Opensource</h2>
 
 - Projects that I sometimes lead or maintain:
