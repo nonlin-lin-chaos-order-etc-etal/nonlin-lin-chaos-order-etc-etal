@@ -91,7 +91,8 @@ eeloka: https://eeloka.github.io/
 Славянская Навь https://slavyanskaya-nav.github.io/
 
 <h2>
-  The mono proprietary freegan private access kernel/core: `git@github.com:nonlin-lin-chaos-order-et-more/monorepo_volpinism_mountain.git` https://github.com/nonlin-lin-chaos-order-et-more/monorepo_volpinism_mountain
+  а я вам ку не делаю дефолтные люди &mdash; дефолтный пацак или чатланин или оцелоп склонен рандомно оскорблять ПЖ. поэтому приваточка-с, а так был бы Гребенщиковский+мой "горный хрусталь, где (?твоя (?слабость, (?невидимый для глаз, но всё же твёрже чем сталь 
+  The mono proprietary freegan private access kernel/core: `git@github.com:SOMEGOSPODINPJ/monorepo_volpinism_mountain.git` https://github.com/SOMEGOSPODINPJ/monorepo_volpinism_mountain
 </h2>
 
 <hr/>
