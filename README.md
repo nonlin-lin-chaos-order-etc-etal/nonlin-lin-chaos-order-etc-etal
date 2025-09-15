@@ -84,11 +84,11 @@
 </details>
 -->
 
-My paintings: https://github.com/nonlin-lin-chaos-order-et-more/my-paintings/blob/main/Usefulness.jpg
+My paintings: https://github.com/SOMEGOSPODINPJ/my-paintings/blob/main/Usefulness.jpg `USEFULNESS` IMAGINARY WORLDS PAINTING. PRODUCED (P) 2025 BY ANY.SURF & ALL PEOPLE INVOLVED. ALL RIGHTS RESERVED. COPYRIGHT (C) 2025 BY ANY.SURF & ALL PEOPLE INVOLVED. ALL RIGHTS RESERVED.
 
-eeloka: https://eeloka.github.io/
+eeloka: https://eeloka.github.io/ PRODUCED (P) 2025 BY ANY.SURF & ALL PEOPLE INVOLVED, EXCEPT FOR RESPECTIVE RIGHTS HOLDERS (ESPECIALLY BORIS GREBENSHCHIKOV &amp; AQUARIUM AND JOSEPHINE WALL AND TERRY RILEY). ALL RIGHTS RESERVED. COPYRIGHT (C) 2025 BY ANY.SURF & ALL PEOPLE INVOLVED, EXCEPT FOR RESPECTIVE RIGHTS HOLDERS (ESPECIALLY BORIS GREBENSHCHIKOV &amp; AQUARIUM AND JOSEPHINE WALL AND TERRY RILEY). ALL RIGHTS RESERVED.
 
-Славянская Навь https://slavyanskaya-nav.github.io/
+Славянская Навь https://slavyanskaya-nav.github.io/ PRODUCED (P) 2025 BY ANY.SURF & ALL PEOPLE INVOLVED. ALL RIGHTS RESERVED. COPYRIGHT (C) 2025 BY ANY.SURF & ALL PEOPLE INVOLVED. ALL RIGHTS RESERVED.
 
 <h2>
   а я вам ку не делаю дефолтные люди &mdash; дефолтный пацак или чатланин или оцелоп склонен рандомно оскорблять ПЖ; поэтому приваточка-с, а так был бы Гребенщиковский+мой "горный хрусталь, где (?твоя (?слабость, (?невидимый для глаз, но всё же &mdash; твёрже чем сталь 
