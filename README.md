@@ -41,6 +41,8 @@
   </dd>
 </dl>
 
+* TmpRef to this snippet of hypertext: https://github.com/egphilippov1/SOMEGOSPODINPJ.github.io/blob/ARXINEOPSIXIKAETCETMOREETAL/README.md#work-is-being-done-early-access-drafts-not-ready
+
 <h2>Blogs</h2>
 
   - Тут бложек забахал, думаю вести. https://bitstream-synergetics-the-work.github.io/
