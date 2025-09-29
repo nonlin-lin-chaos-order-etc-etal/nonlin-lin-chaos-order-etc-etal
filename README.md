@@ -9,6 +9,38 @@
 
 <br clear=all>
 
+# My Main Website
+
+ * https://any.surf/
+
+# Work is being done (early access, drafts not ready!)
+
+ * Now playing: https://www.youtube.com/watch?v=2DPO7xUNCJ4 BG+ &amp; Aquarium
+
+## Vis Vitalis 𖬺 Biofactor Projekct
+
+<dl>
+  <dt>
+    <div>Vis Vitalis 𖬺 Biofactor Projekct</div>
+  </dt>
+  <dd>
+    <p>Vis Vitalis 𖬺 Biofactor Projekct</p>
+    <p>x VJ HYPENOSIS</p>
+    <p>WITH AI TELEWAXOR UNITY</p>
+    <p>&nbsp;</p>
+    <p>Special Thanks to <a href="https://audius.co/iamkatary">Her Digital Echo</a></p>
+    <p>Special Thanks to Tremendous Lab. &amp; to <a href="https://dfot.org/">dfot</a></p>
+    <p>Special Thanks to <a href="https://bg-aquarium.com/">Aquarium</a>, <a href="https://bg-aquarium.com/">BG+</a>, S. Kourekhin, <a href="https://piknik.info/">Piknik</a>, &amp; to All!</p>
+    <p>Special Thanks to Robert Wyatt's ~500+ collabs at <a href="https://slsknet.org/">SoulSeek</a> &mdash; Support starving artists!</p>
+    <p>
+       <ul>
+         <li>Main Link (Work in progress): https://audius.co/visvitalisband</li>
+         <li>AI TELEWAXOR (Work in progress): https://github.com/AITELEWAXORUNITY</li>
+       </ul>
+    </p>
+  </dd>
+</dl>
+
 <h2>Blogs</h2>
 
   - Тут бложек забахал, думаю вести. https://bitstream-synergetics-the-work.github.io/
