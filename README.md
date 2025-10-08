@@ -9,23 +9,19 @@
 
 <br clear=all>
 
-# My Main Website
+<h1>My Main Website: Vis Vitalis 𖬺 Biofactor Projekct hosted by Audius.Co</h1>
 
- * https://any.surf/
-
-# Work is being done (early access, drafts not ready!)
-
- * Now playing: https://www.youtube.com/watch?v=2DPO7xUNCJ4 BG+ &amp; Aquarium
-
-## Vis Vitalis 𖬺 Biofactor Projekct
+ * TLDR: https://audius.co/visvitalisband & find &quot;Crystals Night s2v7 & tap Play & enable looping!
 
 <dl>
   <dt>
     <div>Vis Vitalis 𖬺 Biofactor Projekct</div>
   </dt>
   <dd>
-    <p>Vis Vitalis 𖬺 Biofactor Projekct</p>
-    <p>x VJ HYPENOSIS</p>
+    <p>Vis Vitalis 𖬺 Biofactor Projekct is various kinds of rare encyclopaedic music with strongest lyrics & other audio & maybe more mediatypes & unlimited complexity in the future, sometimes easy, sometimes way too heavy without heaviness boundaries, prepare for the worst but there are also easy tracks like &quot;Crystals Night s2v7</p>
+    <p>x VJ HYPENOSIS AKA DJ HYPE AKA DJ HYPN жги диджа</p>
+    <p>x Collaborators
+    <p>x Influences
     <p>WITH AI TELEWAXOR UNITY</p>
     <p>&nbsp;</p>
     <p>Special Thanks to <a href="https://audius.co/iamkatary">Her Digital Echo</a></p>
@@ -34,19 +30,35 @@
     <p>Special Thanks to Robert Wyatt's ~500+ collabs at <a href="https://slsknet.org/">SoulSeek</a> &mdash; Support starving artists!</p>
     <p>
        <ul>
-         <li>Main Link (Work in progress): https://audius.co/visvitalisband</li>
-         <li>AI TELEWAXOR (Work in progress): https://github.com/AITELEWAXORUNITY</li>
+         <li>Main Link (Active & Established, more tracks always underway in preparation & under publishing process while I am alive, I hope to also create a livestream sometime, and also a modified bittorrents based quasieternal playing multiplatform app for artists of various media without boundaries et `libstreaminginteractiveinterpersonalintercommunitiesartcollaborationsquasiforeverartdonerightjustactivate`: https://audius.co/visvitalisband</li>
+         <li>AI TELEWAXOR (WIP Work in progress): https://github.com/AITELEWAXORUNITY</li>
        </ul>
     </p>
   </dd>
 </dl>
 
-* TmpRef to this snippet of hypertext: https://github.com/egphilippov1/SOMEGOSPODINPJ.github.io/blob/ARXINEOPSIXIKAETCETMOREETAL/README.md#work-is-being-done-early-access-drafts-not-ready
+<h2>Greetings/Kudos (WTF? help me translate sometime or what</h2>
+
+ * BIG ONES to &amp;RQ by rejetto (???where are you nowadays Massimo? How is Rome nowadays? <a href=https://rejetto.com/ target=_blank>rejetto.com</a> et*or <a href=https://rejetto.org/ target=_blank>rejetto.org</a> 
+
+<h2>Interlude</h2>
+
+$ℵ_{👨‍🍼vitalis}$, [08.10.2025 15:58]
+
+это я пустыни дюны создаю чтоб в квазивечности харвестеры соль хавали
+
+Hallbjeorn Halftroll, [08.10.2025 15:58]
+
+аминь {нецензурный колорит зацензурил гипн}
+
+<h2>(Previously) My Main Website (Currently just a cover art & nothing more</h2>
+
+ * https://any.surf/
 
 <h2>Blogs</h2>
 
-  - Тут бложек забахал, думаю вести. https://bitstream-synergetics-the-work.github.io/
-  - Блог "Мысли в космос" --- мож кто починит: https://github.com/egphilippov1/blog-thoughts-into-cosmos/issues
+  - WIP Тут бложек забахал, думаю вести. https://bitstream-synergetics-the-work.github.io/
+  - WIP Блог "Мысли в космос" --- мож кто починит: https://github.com/egphilippov1/blog-thoughts-into-cosmos/issues
 
 <h2>Opensource</h2>
 
@@ -61,7 +73,7 @@
   - xmpp-android: Conversations-i2p-hypnfork https://github.com/egphilippov1/Conversations-I2P
   - pending convergence at https://github.com/egphilippov1/holistic-point
 - Other projects
-  - satori wrote small internet radio player in gtk c++ https://github.com/radihypn/radihypn
+  - satori wrote small internet radio player in gtk c++ https://github.com/radihypn/radihypn & I did small contributions 
 - Ideas to implement
   - https://github.com/egphilippov1/IDEAS_TO_IMPLEMENT
 - Status: <em>Unknown (usually busy or chatting at `#ru` at `irc.ilita.i2p`);</em>
@@ -70,7 +82,7 @@
 - My e-mails are: [hypnosis.i2p@gmail.com](mailto:hypnosis.i2p@gmail.com) et [hypnosis@mail.i2p](mailto:hypnosis@mail.i2p);
 - Stats for my two main Github accts follow.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=SOMEGOSPODINPJ&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true" alt="Hypnosis's github stats"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=egphilippov1&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true" alt="Hypnosis's github stats"/>
 
 <br clear=all>
 
@@ -78,7 +90,7 @@
 
 <br clear=all>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOMEGOSPODINPJ&layout=compact&hide=html" alt="SOMEGOSPODINPJ's top programming languages referenced at repos"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egphilippov1&layout=compact&hide=html" alt="egphilippov1's top programming languages referenced at repos"/>
 
 <br clear=all>
 
@@ -88,16 +100,17 @@
 
 <p align="center">
   <a href="https://github.com/egphilippov1">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SOMEGOSPODINPJ&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egphilippov1&theme=transparent" />
   </a>
   <a href="https://github.com/egphilippov1">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SOMEGOSPODINPJ&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=egphilippov1&hide_border=true&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/egphilippov1">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SOMEGOSPODINPJ&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=egphilippov1&theme=transparent" />
   </a>
   <a href="https://github.com/egphilippov1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOMEGOSPODINPJ&langs_count=10&exclude_repo=&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <!-- old Incorrect layout input <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egphilippov1&langs_count=10&exclude_repo=&layout=default&card_width=699&hide_border=true&theme=transparent"/> -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egphilippov1&langs_count=10&exclude_repo=&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
 <p align="center">
@@ -111,7 +124,8 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asmexcaliburwoods&theme=transparent" />
   </a>
   <a href="https://github.com/asmexcaliburwoods">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmexcaliburwoods&langs_count=10&exclude_repo=&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <!-- old Incorrect layout input <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmexcaliburwoods&langs_count=10&exclude_repo=&layout=default&card_width=699&hide_border=true&theme=transparent"/> -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmexcaliburwoods&langs_count=10&exclude_repo=&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
 <!--
@@ -120,11 +134,21 @@
 </details>
 -->
 
-My paintings: https://github.com/egphilippov1/my-paintings/blob/main/Usefulness.jpg `USEFULNESS` IMAGINARY WORLDS PAINTING. COPYRIGHT &copy; 2025 BY ANY.SURF & ALL PEOPLE INVOLVED. ALL RIGHTS RESERVED.
+ * My paintings: https://github.com/egphilippov1/my-paintings/blob/main/Usefulness.jpg `USEFULNESS` IMAGINARY WORLDS PAINTING. COPYRIGHT &copy; 2025 BY ANY.SURF & ALL PEOPLE INVOLVED. ALL RIGHTS RESERVED.
+ * eeloka: https://eeloka.github.io/ PUBLISHED ℗ 2025 BY ANY.SURF & ALL PEOPLE INVOLVED, EXCEPT FOR RESPECTIVE RIGHTS HOLDERS (ESPECIALLY ℗ BY BORIS GREBENSHCHIKOV &amp; AQUARIUM AND ℗ BY TERRY RILEY). ALL RIGHTS RESERVED. COPYRIGHT &copy; 2025 BY ANY.SURF & ALL PEOPLE INVOLVED, EXCEPT FOR RESPECTIVE RIGHTS HOLDERS (ESPECIALLY &copy; BY BORIS GREBENSHCHIKOV &amp; &copy; BY AQUARIUM AND &copy; BY JOSEPHINE WALL AND &copy; BY TERRY RILEY). ALL RIGHTS RESERVED.
+ * Славянская Навь https://slavyanskaya-nav.github.io/ COPYRIGHT &copy; 2025 BY ANY.SURF & ALL PEOPLE INVOLVED. ALL RIGHTS RESERVED. WIP: https://t.me/SilentSwampsBot
+ * WIP: https://github.com/AscensionTemples & Highest * Ascending Covertexity Star
+ * WIP: PRIVATE PROPRIETARY CONFIDENTIAL & ALSO COMMUNITY (WHO ARE YOU*? WOULD YOU LIKE TO COLLABORATE*? WE COULD CONSIDER! &mdash;&gt; &mdash; MONEY (FIAT & OTHER) WORK & FUNDRAISING & MONENARY RELATED COSMOS https://github.com/AXEMORE1 & https://github.com/AXEMORE &mdash; TWO MONETARY FOCAL ATTENTION AREAS WITH THEIR OWN COMMUNNITIES
 
-eeloka: https://eeloka.github.io/ PUBLISHED ℗ 2025 BY ANY.SURF & ALL PEOPLE INVOLVED, EXCEPT FOR RESPECTIVE RIGHTS HOLDERS (ESPECIALLY ℗ BY BORIS GREBENSHCHIKOV &amp; AQUARIUM AND ℗ BY TERRY RILEY). ALL RIGHTS RESERVED. COPYRIGHT &copy; 2025 BY ANY.SURF & ALL PEOPLE INVOLVED, EXCEPT FOR RESPECTIVE RIGHTS HOLDERS (ESPECIALLY &copy; BY BORIS GREBENSHCHIKOV &amp; &copy; BY AQUARIUM AND &copy; BY JOSEPHINE WALL AND &copy; BY TERRY RILEY). ALL RIGHTS RESERVED.
+<h2>Local Backups (Various</h2>
 
-Славянская Навь https://slavyanskaya-nav.github.io/ COPYRIGHT &copy; 2025 BY ANY.SURF & ALL PEOPLE INVOLVED. ALL RIGHTS RESERVED.
+ * https://github.com/i2pchat/i2pchat-vituperative
+ * https://github.com/i2pchatbackups/i2pchatorg_i2pchatrepo
+ * https://github.com/undecidedzogvisvitalispotent8stars360/i2pchat_vituperative
+
+<h2>Чердак</h2>
+
+ * Sometimes playing: https://www.youtube.com/watch?v=2DPO7xUNCJ4 BG+ &amp; Aquarium
 
 <h2>
   а я вам ку не делаю дефолтные люди &mdash; дефолтный пацак или чатланин или оцелоп склонен рандомно оскорблять ПЖ; поэтому приваточка-с, а так был бы Гребенщиковский+мой "горный хрусталь, где (?твоя (?слабость, (?невидимый для глаз, но всё же &mdash; твёрже чем сталь
