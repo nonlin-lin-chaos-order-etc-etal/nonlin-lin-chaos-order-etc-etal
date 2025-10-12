@@ -37,6 +37,78 @@
   </dd>
 </dl>
 
+<h1>my cosmoslingua partialbio</h1>
+
+BEGIN SNIPPET
+
+## PART 1
+
+ПРЕДЛАГАЮ ЯЗЫК ПРОГРАММИРОВАНИЯ `OWNQUANTUMMIXPL`
+
+И HARDWARE RENAME TO `OWNQUANTUMMIXHW` `SUBTYPES` `SUBCATEGORES` `<YOURHARDWARETAGSHERE>`
+
+HUMANIST et legalese STRUGGLE FOR THE CIVILISZATION'S SANITY INSTEAD OF HORRIBLE ABSURD: ALL RIGHTS INCLUDING AUTHOR RIGHTS INCLUDING PATENT RIGHTS TO THE GLYPHSTRING `OWNQUANTUMMIX` ONCE FOUND BY HUMAN Е Г Филиппов (Ангарский) IDENTIFIED BY `https://GITHUB.COM/egphilippov1` ARE EXPRESSLY RELEASED INTO THE PUBLIC DOMAIN CULTURE ET INDUSTRY ET COSMOS ET YOU ARE EXPRESSLY SET TO FREEDOM WITH THIS GLYPHSTRING `OWNQUANTUMMIX` WITHOUT ANY RESTRICTIONS FOREVER AS COSMOS ET MONADS ЛЕЙБНИЦА UNCONDITIONALLY ALLOW YOU TO DO WHATEVER YOU PREFER WITH THE GLYPHSTRING `OWNQUANTUMMIX` TIMEDATE `ISO`STD`8601` `2025-10-12T06:55:29,171361200+00:00`
+
+## PART 2
+
+Женя Енька \ℵ_{👨‍🍼vitalis}, [12.10.2025 12:05]
+
+ПРЕДЛАГАЮ ЯЗЫК ПРОГРАММИРОВАНИЯ `OWNQUANTUMMIXPL`
+
+Yandex Translate, [12.10.2025 12:05]
+
+English: I SUGGEST THE PROGRAMMING LANGUAGE OWNQUANTUMMIXPL
+
+X, [12.10.2025 14:40]
+
+Тоже на выдуманном языке пишешь как и пси?)
+
+Yandex Translate, [12.10.2025 14:40]
+
+English: Do you also write in a fictional language like psi?)
+
+Женя Енька \ℵ_{👨‍🍼vitalis}, [12.10.2025 15:18]
+
+нет я начиная с ФМШ 165 Новосибирский Академгородок 3 года самостоятельно изучал машинный код компиляторов ассемблера и машинный код дизассемблеров и машинны код высокооптимизированного интерпретатора MSX Basic на архитектурах MSX1 и MSX2 и в вузе Новосибирск НГУ ММФ поток чистой математики несколько лет практиковался в лаборатории компиляторов ВЦ СО АН СССР и изучал теорию начиная с Ноама Хомского, академика Юрия Апресяна, Никлауса Вирта, диссертацию одного сотрудника лаборатории компиляторов кусочно прочитал что мне интересно біло и внимательно читал всю книгу "FORTH в 8 килобайт" и свободно оперирую всем єтим, есть такая ачивка что за 4 часа ровно полностью написал транслятор специфического асма вм игрі CORE WARS в машинный код этой вм которую сделал мой друг Антон Леонтьев по собственным хотелкам с одним исключением что я позже понял что есть один мельчайший баг и его поправил и остальных багов быть вовсе не должно хотя у Антона в дизайне был один глюк с instructions set но это не баг а багофича странная и она на совести сугубо Антона он решил пробить на этот прикол болт, исходный код мы с Антоном храним хотя он по пьяни иногда теряет и просит копию его архива
+
+я сделал парсер OBERON вместо грамматики Вирта LL(k) в строгой грамматике LL(1) на базе компилятора компиляторов Coco/R учеников Вирта — её сорцы есть на гитхабе и копии на других хостингах кода где-то; делал также интерпретатор Оберона с наличием графики в модуле SYSTEM на js но эта штучка не сохранилась
+
+Yandex Translate, [12.10.2025 15:18]
+
+English: no, starting from FMSH 165 Novosibirsk Akademgorodok, I spent 3 years independently studying the machine code of assembler compilers and the machine code of disassemblers and the machine code of the highly optimized MSX Basic interpreter on MSX1 and MSX2 architectures and at Novosibirsk NSU MMF University, I practiced for several years in the compiler laboratory of the Central Research Center of the USSR Academy of Sciences and studied theory starting with Noam Chomsky, academician Yuri Apresyan, Niklaus Wirth, I read the dissertation of an employee of the compiler laboratory piecemeal, which is interesting to me, and I carefully read the entire book "FORTH in 8 kilobytes" and freely operate on all of it, there is such an achievement that in exactly 4 hours I completely wrote the translator of the specific asma vm of the CORE WARS game into the machine code of this vm, which my friend made Anton Leontiev according to his own wishes, with one exception that I later realized that there was one tiny bug and corrected it, and there should be no other bugs at all, although Anton had one glitch with instructions set in the design, but this is not a bug, but a strange bug feature and it is purely Anton's conscience that he decided to punch a bolt for this joke, the original Anton and I keep the code, although he sometimes loses it when he's drunk and asks for a copy of his archive.
+
+I made the OBERON parser instead of the LL(k) Wirth grammar in the strict LL(1) grammar based on the Coco/R compiler of Wirth's students — there are varieties of it on github and copies on other code hosts somewhere; I also made the Oberon interpreter with graphics in the SYSTEM module in js, but this thing has not been preserved.
+
+Женя Енька \ℵ_{👨‍🍼vitalis}, [12.10.2025 15:28]
+
+Ах да, ещё я год делал навороченный парсер морфологии русского языка на борланд с++ на базе Академической грамматики русского языка и участвовал во многих мироовых проектах по компьютерной лингвистике включая opencog.org и ( seman project @ sf.net — это подпроект aot.ru автоматическая обработка текста и чёт ещё ща.... ах да на на онтологиях cyc писал систему свою project.east1 — foss есть на гугл коде и гитхабе и активно участвовал на почившем форуме aicommunity.info под ником buguldey — архив форума был на ailab.ru — и ещё я написал статью википедии по онтологической системе KAON KArlsruhe ONtology ину и мож ещё что забыл многа всеякого начатков есть кому интересно посмеются мож свои аналоги сварганят, такое случается ) и т.д.
+
+Yandex Translate, [12.10.2025 15:28]
+
+English: Russian Russian morphology parser in borland c++ based on the Academic Grammar of the Russian language, and I participated in many group projects on computational linguistics for a year. opencog.org and ( seman project @ sf.net — this is a subproject aot.ru automatic text processing and even less.... oh, yes, cyc wrote his project system on ontologies.east1 — foss is on Google code and github and actively participated in the deceased forum aicommunity.info under the nickname buguldey, the forum archive was on ailab.ru — and I also wrote a Wikipedia article on the KAON KArlsRuhe ONtology inu ontological system, and maybe I forgot something else. I wonder if their counterparts will laugh, it happens), etc.
+
+Женя Енька \ℵ_{👨‍🍼vitalis}, [12.10.2025 15:37]
+
+и свой ии питон либі шл'пну
+
+Yandex Translate, [12.10.2025 15:37]
+
+English: And I'll give you my AI python
+
+Женя Енька \ℵ_{👨‍🍼vitalis}, [12.10.2025 15:38]
+
+типа да гив какбе — люди они такові как такові и вовсе не такові как не таковї
+
+Yandex Translate, [12.10.2025 15:38]
+
+English: type yes gave kakbe-people they are such as such and at all not so as not so
+
+Yandex Translate, [12.10.2025 15:38]
+
+Русский: типа да гив какбе-люди они такие как такие и вовсе не такие как не такие
+
+END SNIPPET
+
 <h2>Greetings/Kudos (WTF? help me translate sometime or what</h2>
 
  * BIG ONES to &amp;RQ by rejetto (???where are you nowadays Massimo? How is Rome nowadays? <a href=https://rejetto.com/ target=_blank>rejetto.com</a> et*or <a href=https://rejetto.org/ target=_blank>rejetto.org</a> 
@@ -154,3 +226,12 @@ Hallbjeorn Halftroll, [08.10.2025 15:58]
   а я вам ку не делаю дефолтные люди &mdash; дефолтный пацак или чатланин или оцелоп склонен рандомно оскорблять ПЖ; поэтому приваточка-с, а так был бы Гребенщиковский+мой "горный хрусталь, где (?твоя (?слабость, (?невидимый для глаз, но всё же &mdash; твёрже чем сталь
   The mono proprietary freegan private access kernel/core но вот сделал комьюнити доступ через пулл реквесты и хочу сделать опенсорс это всё, с лицухов BSD3 для начала и переместить в комьюнитиоргу: `git@github.com:egphilippov1/MONOREPO_COMMUNITIESOWNED_NONCONFIDENTIAL_PRIVATE_VOLPINISMS_FREEGAN_MOUNTAINS_RANGES_CRYSTALS.git` https://github.com/egphilippov1/MONOREPO_COMMUNITIESOWNED_NONCONFIDENTIAL_PRIVATE_VOLPINISMS_FREEGAN_MOUNTAINS_RANGES_CRYSTALS
 </h2><hr/>P.S. my three other github accts: [mewmew-i2p](https://github.com/mewmew-i2p), [anon5](https://github.com/anon5), [egphilippov](https://github.com/egphilippov), there might be more but forgotten
+
+
+```sh
+user@nb1:~$ date
+2025-10-12T07:55:24,410114102+00:00
+user@nb1:~$ echo 'clicking add & commit
+> 
+
+
