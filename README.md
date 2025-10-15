@@ -139,6 +139,14 @@ English: beta Beta I also made small virtual funny worlds of textual interactive
 Yandex Translate (human edited partially), [15.10.2025 10:43]
 English: Unfortunately, it has not been preserved, was based on the mud/moo engine Jamud, based on Java+XML, I attached connectors to it in different messengers. It was funny how people from various networks sit in the same virtual room or world, travelling around the virtual world
 
+[...]
+
+Женя Енька \ℵ_{👨‍🍼vitalis}, [15.10.2025 10:59]
+я делал ТЕКСТОВЫЕ миры (из одних БУКОВ) (но это не догма), это было смешнее и глючнее всяких ваших зумерских графических
+
+Yandex Translate, [15.10.2025 10:59]
+English: I had been making TEXT worlds (out of only GLYPHS) (but this is not a dogma), it was funnier and freakier than any of your zoomer graphical ones
+
 SNIPPET END
 
 <h2>(Previously) My Main Website (Currently just a cover art & nothing more</h2>
