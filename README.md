@@ -123,6 +123,24 @@ Hallbjeorn Halftroll, [08.10.2025 15:58]
 
 аминь {нецензурный колорит зацензурил гипн}
 
+<h2>Something on virtual worlds</h2>
+
+SNIPPET BEGIN
+
+Женя Енька \ℵ_{👨‍🍼vitalis}, [15.10.2025 10:41]
+β Beta я тож мелкие виртуальные смешные мирки текстовую интерактивную литературу делал, друзья студенты ММФ НГУ прям таращились с той хитрой топологии мирка и текстика и устраивали там беспрестанные семейные склоки в одной комнатке мира, я им "я все логи смотрю и всё вижу отлаживаю, вы что там, а они "не мешай, нам там нравится срацца отвали вопще" =))
+
+Yandex Translate, [15.10.2025 10:41]
+English: beta Beta I also made small virtual funny worlds of textual interactive literature, my friends the students of MMF NSU just stared from that tricky topology of the world and the text and arranged incessant family squabbles in one room of the world, I told them "I look at all the logs and debug everything, what are you there, and they "don't bother us there like fuck off!" =))
+
+Женя Енька \ℵ_{👨‍🍼vitalis}, [15.10.2025 10:43]
+Не сохранилось к сожалению, на базе mud/moo движка Jamud был, на базе Java+XML, я ему в разные мессенжеры интерфейс коннекторы приделал было забавно как из самых разных сетей люди в одной виртуальной комнате или мирке сидят лазят по мирку тыкают в разную фигню
+
+Yandex Translate (human edited partially), [15.10.2025 10:43]
+English: Unfortunately, it has not been preserved, was based on the mud/moo engine Jamud, based on Java+XML, I attached connectors to it in different messengers. It was funny how people from various networks sit in the same virtual room or world, travelling around the virtual world
+
+SNIPPET END
+
 <h2>(Previously) My Main Website (Currently just a cover art & nothing more</h2>
 
  * https://any.surf/
